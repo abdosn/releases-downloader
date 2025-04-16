@@ -16,4 +16,5 @@ chmod u+x releases-downloader
 1. Add options for providing github token
 2. improve parsing and error handling
 3. add option for providing owner and repo name only without the whole link
+4. improve readability 
 
